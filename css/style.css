@@ -19,6 +19,19 @@
 }
 
 
+.best-place h1{
+    display: block;
+    text-align: center;
+    padding: 0 10px;
+    border-radius: 5px;
+    font-weight: 700;
+    font-size: 60px;
+    font-family: "Bungee Spice", sans-serif;
+    background-color: rgba(0, 0, 0, 0.386);
+    
+}
+
+
 .card-list{
     justify-content: space-between;
     
