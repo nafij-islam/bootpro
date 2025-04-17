@@ -14,12 +14,13 @@
 
 .best-place{
     padding-top: 20px;
+    padding-bottom: 20px;
+    background-color: rgba(43, 250, 250, 0.539);
 }
 
 
 .card-list{
-    justify-content: space-around;
-
+    justify-content: space-between;
     
 }
 
