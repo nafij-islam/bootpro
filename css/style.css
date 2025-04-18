@@ -2,6 +2,11 @@
     background-color: rgba(43, 250, 250, 0.539);
 }
 
+.navbar .navbar-brand{
+   font-weight: 700;
+
+}
+
 
 
 .banner-part{
@@ -51,3 +56,26 @@
     background-color: rgba(43, 250, 250, 0.539);
     padding-bottom: 30px;
 }
+
+.last-plae{
+    padding-top: 20px   ;
+    background-color: rgba(43, 250, 250, 0.539);
+    padding-bottom: 30px;
+}
+
+
+
+
+/* ===============sylhey city about================= */
+
+.sylhet-part{
+    background-color: aqua;
+    padding: 10px;
+}
+
+
+.sylhet-all-place{
+    background-color: aqua;
+    padding: 10px;
+}
+
