@@ -66,6 +66,9 @@
 
 
 
+
+
+
 /* ===============sylhey city about================= */
 
 .sylhet-part{
@@ -76,6 +79,7 @@
 
 .sylhet-all-place{
     background-color: aqua;
-    padding: 10px;
+    padding-top: 10px;
+    padding-bottom: 40px;
 }
 
