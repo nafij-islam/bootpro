@@ -1,7 +1,20 @@
+
+@media (min-width:0px) and (max-width:319px){
+
+    .navbar{
+        background-color: rgba(174, 43, 250, 0.539);
+        transition: 2s;
+    }
+
+
+}
+
+
 @media (min-width:320px) and (max-width:575.99px){
 
     .navbar{
         background-color: rgba(43, 250, 250, 0.539);
+        transition: 1s;
     }
 
 
@@ -12,6 +25,7 @@
 
     .navbar{
         background-color: rgba(250, 215, 43, 0.539);
+        transition: 1s;
     }
 
 
@@ -23,6 +37,32 @@
 
     .navbar{
         background-color: rgba(60, 43, 250, 0.539);
+        transition: 1s;
+    }
+
+
+}
+
+
+
+
+@media (min-width:993px) and (max-width:1200px){
+
+    .navbar{
+        background-color: rgba(250, 43, 81, 0.539);
+        transition: 1s;
+    }
+
+
+}
+
+
+
+@media (min-width:1201px) and (max-width:1400px){
+
+    .navbar{
+        background-color: rgba(61, 232, 4, 0.539);
+        transition: 1s;
     }
 
 
